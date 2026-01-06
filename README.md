@@ -79,4 +79,4 @@ Both matter when evaluating models that generate meaning.
 
 ---
 
-If you’re exploring AI evaluation, reproducible workflows, or structured prompt design, feel free to dive into the repos above.
+If you’re exploring AI evaluation, reproducible workflows, or structured prompt design, feel free to dive into the repos below.

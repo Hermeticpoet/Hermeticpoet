@@ -70,15 +70,20 @@ Each will follow the same structure: **small**, **controlled**, and **easy to in
 
 ## 📌 Pinned Projects
 
-| Repo | Description |
-| ---- | ----------- |
+- **[llm-hallucination-missing-information](https://github.com/Hermeticpoet/llm-hallucination-missing-information)**  
+  _Tests model behavior under missing or fictional facts_
 
-| [llm-hallucination-missing-information](https://github.com/Hermeticpoet/llm-hallucination-missing-information) | Tests model behavior under missing or fictional facts |
-| [llm-directional-bias-evaluation](https://github.com/Hermeticpoet/llm-directional-bias-evaluation) | Evaluates framing bias using symmetric prompts |
-| [Prompt_Engineering_Portfolio](https://github.com/Hermeticpoet/Prompt_Engineering_Portfolio) | Jailbreak resistance, few-shot prompting, security stress tests |
-| [osint-dashboard-app](https://github.com/Hermeticpoet/osint-dashboard-app) | URL safety checker with SSL, domain, and phishing analysis |
-| [javascript-fundamentals-notes](https://github.com/Hermeticpoet/javascript-fundamentals-notes) | Refresher notes on JS concepts and syntax |
-| [Hermeticpoet](https://github.com/Hermeticpoet/Hermeticpoet) | Profile README and identity statement |
+- **[llm-directional-bias-evaluation](https://github.com/Hermeticpoet/llm-directional-bias-evaluation)**  
+  _Evaluates framing bias using symmetric prompts_
+
+- **[Prompt_Engineering_Portfolio](https://github.com/Hermeticpoet/Prompt_Engineering_Portfolio)**  
+  _Jailbreak resistance, few-shot prompting, security stress tests_
+
+- **[osint-dashboard-app](https://github.com/Hermeticpoet/osint-dashboard-app)**  
+  _URL safety checker with SSL, domain, and phishing analysis_
+
+- **[javascript-fundamentals-notes](https://github.com/Hermeticpoet/javascript-fundamentals-notes)**  
+  _Refresher notes on JS concepts and syntax_
 
 ---
 

@@ -1,12 +1,10 @@
 # Kevin Walton — AI Evaluation & Technical Reasoning
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hermeticpoet&color=grey)
-![GitHub Followers](https://img.shields.io/github/followers/Hermeticpoet?style=flat&color=grey)
-![GitHub Stars](https://img.shields.io/github/stars/Hermeticpoet?affiliations=OWNER&style=flat&color=grey)
+I work at the intersection of **AI evaluation**, **prompt engineering**, and **clear technical reasoning**. My background blends hands-on troubleshooting, structured analysis, and a creative instinct for patterns — the kind that shows up in both good engineering and good storytelling.
 
-I work at the intersection of **AI evaluation**, **prompt engineering**, and **clear technical reasoning**. My background blends hands‑on troubleshooting, structured analysis, and a creative instinct for patterns — the kind that shows up in both good engineering and good storytelling. I build small, focused evaluation samples that demonstrate how large language models behave under pressure: ambiguity, bias, missing information, and constraint.
+I build small, focused evaluation samples that demonstrate how large language models behave under pressure: **ambiguity**, **bias**, **missing information**, and **constraint**.
 
-My approach is methodical, evidence‑driven, and grounded in reproducible workflows. I value clarity, uncertainty‑awareness, and the discipline of testing one variable at a time.
+My approach is methodical, evidence-driven, and grounded in reproducible workflows. I value clarity, uncertainty-awareness, and the discipline of testing one variable at a time.
 
 ---
 
@@ -14,18 +12,17 @@ My approach is methodical, evidence‑driven, and grounded in reproducible workf
 
 These projects form a growing series of targeted evaluations, each designed to isolate a single behavioural dimension of LLMs.
 
-### **1. Hallucination Under Missing Information**
+### [llm-hallucination-missing-information](https://github.com/Hermeticpoet/llm-hallucination-missing-information)
 
 Tests how models respond when key facts are absent or fictional.  
-Includes raw outputs, analysis notes, and a concise summary.  
-**Repo:** _llm-hallucination-evaluation_
+Includes raw outputs, analysis notes, and a concise summary.
 
-### **2. Directional Bias Under Symmetric Prompts**
+### [llm-directional-bias-evaluation](https://github.com/Hermeticpoet/llm-directional-bias-evaluation)
 
 Examines whether models drift toward a preferred framing when both sides are balanced.  
-**Repo:** _llm-directional-bias-evaluation_
+Uses symmetric prompt testing and structured comparisons.
 
-More samples are planned, each small, sharp, and methodologically clean.
+More samples are planned — each small, sharp, and methodologically clean.
 
 ---
 
@@ -33,13 +30,13 @@ More samples are planned, each small, sharp, and methodologically clean.
 
 I design evaluations using:
 
-- **Test matrices** with clear expectations
-- **Raw model outputs** stored for transparency
-- **Analysis notes** capturing early observations
-- **Concise reports** summarising behavioural patterns
-- **Reproducible workflows** that others can follow
+- ✅ Test matrices with clear expectations
+- 📂 Raw model outputs stored for transparency
+- 📝 Analysis notes capturing early observations
+- 📊 Concise reports summarising behavioural patterns
+- 🔁 Reproducible workflows that others can follow
 
-My goal is to make evaluation understandable, inspectable, and grounded in evidence rather than intuition.
+My goal is to make evaluation **understandable**, **inspectable**, and **grounded in evidence** rather than intuition.
 
 ---
 
@@ -62,21 +59,48 @@ I’m continuously expanding these skills while keeping my focus on clarity and 
 
 Upcoming evaluation samples:
 
-- Instruction‑following robustness
+- Instruction-following robustness
 - Paraphrase consistency
 - Safety and refusal behaviour
-- Multi‑step reasoning drift
+- Multi-step reasoning drift
 
-Each will follow the same structure: small, controlled, and easy to inspect.
+Each will follow the same structure: **small**, **controlled**, and **easy to inspect**.
+
+---
+
+## 📌 Pinned Projects
+
+| Repo | Description |
+| ---- | ----------- |
+
+| [llm-hallucination-missing-information](https://github.com/Hermeticpoet/llm-hallucination-missing-information) | Tests model behavior under missing or fictional facts |
+| [llm-directional-bias-evaluation](https://github.com/Hermeticpoet/llm-directional-bias-evaluation) | Evaluates framing bias using symmetric prompts |
+| [Prompt_Engineering_Portfolio](https://github.com/Hermeticpoet/Prompt_Engineering_Portfolio) | Jailbreak resistance, few-shot prompting, security stress tests |
+| [osint-dashboard-app](https://github.com/Hermeticpoet/osint-dashboard-app) | URL safety checker with SSL, domain, and phishing analysis |
+| [javascript-fundamentals-notes](https://github.com/Hermeticpoet/javascript-fundamentals-notes) | Refresher notes on JS concepts and syntax |
+| [Hermeticpoet](https://github.com/Hermeticpoet/Hermeticpoet) | Profile README and identity statement |
+
+---
+
+## 🎓 Courses Completed
+
+- Google AI Essentials
+- DeepLearning.AI Prompt Engineering for ChatGPT
+- Kapsuun OSINT & Threat Intelligence
+- More in progress…
 
 ---
 
 ## ✦ A Note on Identity
 
-The name _Hermeticpoet_ reflects the two halves of my work:  
+The name **Hermeticpoet** reflects the two halves of my work:  
 the **precision of systems** and the **resonance of narrative**.  
 Both matter when evaluating models that generate meaning.
 
 ---
 
-If you’re exploring AI evaluation, reproducible workflows, or structured prompt design, feel free to dive into the repos below.
+## 📬 Contact
+
+If you’re exploring AI evaluation, reproducible workflows, or structured prompt design, feel free to dive into the repos above — or reach out.
+
+📬 [Email](mailto:kevywalton@outlook.com)

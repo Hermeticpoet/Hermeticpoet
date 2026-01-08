@@ -10,7 +10,7 @@ My approach is methodical, evidence-driven, and grounded in reproducible workflo
 
 ## 🔍 Evaluation Portfolio
 
-These projects form a growing series of targeted evaluations, each designed to isolate a single behavioural dimension of LLMs.
+These projects form a growing series of targeted evaluations, each designed to isolate a specific behavioural dimension of LLMs or test their robustness across multiple models.
 
 ### [llm-hallucination-missing-information](https://github.com/Hermeticpoet/llm-hallucination-missing-information)
 
@@ -21,6 +21,11 @@ Includes raw outputs, analysis notes, and a concise summary.
 
 Examines whether models drift toward a preferred framing when both sides are balanced.  
 Uses symmetric prompt testing and structured comparisons.
+
+### [Prompt_Engineering_Portfolio](https://github.com/Hermeticpoet/Prompt_Engineering_Portfolio)
+
+A larger, multi-model evaluation project exploring jailbreak resistance, instruction robustness, few-shot prompting, and security‑oriented stress tests.  
+Includes structured comparisons, adversarial prompts, and reproducible workflows.
 
 More samples are planned — each small, sharp, and methodologically clean.
 

@@ -92,7 +92,15 @@ Each will follow the same structure: **small**, **controlled**, and **easy to in
 
 ---
 
-## 🎓 Courses Completed
+### 🔧 AI Workflow Utilities
+
+A collection of small, focused Python scripts for AI‑assisted workflows, text processing, and OSINT‑style analysis.  
+Includes domain validation, URL extraction, text cleaning, and reproducible test cases.  
+➡️ [View the repository](https://github.com/Hermeticpoet/ai-workflow-utilities)
+
+---
+
+### 🎓 Courses Completed
 
 - Google AI Essentials
 - DeepLearning.AI Prompt Engineering for ChatGPT
@@ -101,7 +109,7 @@ Each will follow the same structure: **small**, **controlled**, and **easy to in
 
 ---
 
-## ✦ A Note on Identity
+### ✦ A Note on Identity
 
 The name **Hermeticpoet** reflects the two halves of my work:  
 the **precision of systems** and the **resonance of narrative**.  
@@ -109,7 +117,7 @@ Both matter when evaluating models that generate meaning.
 
 ---
 
-## 📬 Contact
+#### 📬 Contact
 
 If you’re exploring AI evaluation, reproducible workflows, or structured prompt design, feel free to dive into the repos above — or reach out.
 
